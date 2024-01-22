@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357412526561",
+    "project_id": "vibeslink-ac31c",
+    "storage_bucket": "vibeslink-ac31c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357412526561:android:5bdf867800e33f38309aa0",
+        "android_client_info": {
+          "package_name": "com.helloworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIbE1tA0RsewCKca_vOu6JQ0DaDKC1grY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
